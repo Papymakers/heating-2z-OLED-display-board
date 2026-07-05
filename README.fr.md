@@ -32,10 +32,10 @@ Toutes les références sont des **références constructeur**, disponibles chez
 
 | Repère | Composant | Constructeur | Référence | Réf. Mouser | Qté |
 |--------|-----------|--------------|-----------|-------------|-----|
-| J-OLED | Embase femelle 4 contacts, 2.54 mm, coudée, dorée (série White Lite BG302) | GCT | **BG302-04-A-L-G** | 640-BG302-04-A-L-G | 1 |
-| J-ZIF | Connecteur FFC ZIF-LINE, 8 positions, pas 2.54 mm (.100"), traversant | TE Connectivity | **487925-1** | 571-487925-1 | 1 ou 2* |
-| SW1, SW2 | Switch tactile 6×6 mm, poussoir saillant, série B3F | Omron | **B3F-3150** | 653-B3F-3150 | 2 |
-| — | Capuchon rond noir Ø6 mm pour B3F poussoir saillant | Omron | **B32-2010** | 653-B32-2010 | 2 |
+| J-OLED | Embase femelle 4 contacts, 2.54 mm, coudée, dorée (série White Lite BG302) | GCT | **BG302&#8209;04&#8209;A&#8209;L&#8209;G** | 640&#8209;BG302&#8209;04&#8209;A&#8209;L&#8209;G | 1 |
+| J-ZIF | Connecteur FFC ZIF-LINE, 8 positions, pas 2.54 mm (.100"), traversant | TE Connectivity | **487925&#8209;1** | 571&#8209;487925&#8209;1 | 1 ou 2* |
+| SW1, SW2 | Switch tactile 6×6 mm, poussoir saillant, série B3F | Omron | **B3F&#8209;3150** | 653&#8209;B3F&#8209;3150 | 2 |
+| — | Capuchon rond noir Ø6 mm pour B3F poussoir saillant | Omron | **B32&#8209;2010** | 653&#8209;B32&#8209;2010 | 2 |
 | U-DISP | Module OLED 0.96" SSD1306, I2C, 4 broches (GND/VCC/SCL/SDA) | générique | — | — | 1 |
 
 \* 2 connecteurs ZIF si la carte principale reçoit elle aussi la nappe en ZIF (un à chaque extrémité).

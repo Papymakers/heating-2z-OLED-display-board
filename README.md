@@ -35,10 +35,10 @@ All references are **manufacturer part numbers**, available from **Mouser**.
 
 | Ref | Component | Manufacturer | Part number | Mouser P/N | Qty |
 |-----|-----------|--------------|-------------|------------|-----|
-| J-OLED | Female header, 4 contacts, 2.54 mm, right-angle, gold (White Lite BG302 series) | GCT | **BG302-04-A-L-G** | 640-BG302-04-A-L-G | 1 |
-| J-ZIF | FFC ZIF-LINE connector, 8 positions, 2.54 mm (.100") pitch, through-hole | TE Connectivity | **487925-1** | 571-487925-1 | 1 or 2* |
-| SW1, SW2 | Tactile switch 6×6 mm, projected plunger, B3F series | Omron | **B3F-3150** | 653-B3F-3150 | 2 |
-| — | Round black keycap Ø6 mm for B3F projected plunger | Omron | **B32-2010** | 653-B32-2010 | 2 |
+| J-OLED | Female header, 4 contacts, 2.54 mm, right-angle, gold (White Lite BG302 series) | GCT | **BG302&#8209;04&#8209;A&#8209;L&#8209;G** | 640&#8209;BG302&#8209;04&#8209;A&#8209;L&#8209;G | 1 |
+| J-ZIF | FFC ZIF-LINE connector, 8 positions, 2.54 mm (.100") pitch, through-hole | TE Connectivity | **487925&#8209;1** | 571&#8209;487925&#8209;1 | 1 or 2* |
+| SW1, SW2 | Tactile switch 6×6 mm, projected plunger, B3F series | Omron | **B3F&#8209;3150** | 653&#8209;B3F&#8209;3150 | 2 |
+| — | Round black keycap Ø6 mm for B3F projected plunger | Omron | **B32&#8209;2010** | 653&#8209;B32&#8209;2010 | 2 |
 | U-DISP | OLED module 0.96" SSD1306, I2C, 4 pins (GND/VCC/SCL/SDA) | generic | — | — | 1 |
 
 \* 2 ZIF connectors if the main board also receives the ribbon via ZIF (one at each end).
